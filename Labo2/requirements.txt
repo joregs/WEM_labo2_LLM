@@ -1,0 +1,10 @@
+ollama
+langchain
+ipykernel
+chainlit
+pypdf
+openai
+gpt4all
+chromadb
+langchainhub
+beautifulsoup4
